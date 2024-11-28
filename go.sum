@@ -1,0 +1,6 @@
+github.com/sashabaranov/go-openai v1.29.2 h1:jYpp1wktFoOvxHnum24f/w4+DFzUdJnu83trr5+Slh0=
+github.com/sashabaranov/go-openai v1.29.2/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
+github.com/ysicing/openai v1.1.1 h1:xu2NO4z03Mn4Ae43RGmSj/RyrPH9ZAf3JcswlGrohEM=
+github.com/ysicing/openai v1.1.1/go.mod h1:UbHidJrSfXqEgYzwah64aYRF5lPyt8t/iX4wuiuBM1I=
+golang.org/x/net v0.29.0 h1:5ORfpBpCs4HzDYoodCDBbwHzdR5UrLBZ3sOnUJmFoHo=
+golang.org/x/net v0.29.0/go.mod h1:gLkgy8jTGERgjzMic6DS9+SP0ajcu6Xu3Orq/SpETg0=
